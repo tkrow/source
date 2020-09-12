@@ -1,0 +1,10 @@
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\bin\Debug\StringBuilder and Font.exe.config
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\bin\Debug\StringBuilder and Font.exe
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\bin\Debug\StringBuilder and Font.pdb
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder and Font.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder_and_Font.Form1.resources
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder_and_Font.Properties.Resources.resources
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder and Font.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder and Font.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder and Font.exe
+C:\Users\Timothy\source\repos\StringBuilder and Font\StringBuilder and Font\obj\Debug\StringBuilder and Font.pdb

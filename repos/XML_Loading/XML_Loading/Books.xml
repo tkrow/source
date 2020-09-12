@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Books>
+  
+  <Book>
+    <Title>The Coffee Table Book of Coffee Tables</Title>
+    <Author>Cosmo Kramer</Author>
+    <Publisher>Pendant Publishing</Publisher>
+  </Book>
+
+  <Book>
+    <Title>Tropic of Cancer</Title>
+    <Author>Henry Miller</Author>
+    <Publisher>Obelisk Press</Publisher>
+  </Book>
+  
+</Books>

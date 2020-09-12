@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\bin\Debug\MethodsOfObjects.exe.config
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\bin\Debug\MethodsOfObjects.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\bin\Debug\MethodsOfObjects.pdb
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\obj\Debug\MethodsOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\obj\Debug\MethodsOfObjects.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\obj\Debug\MethodsOfObjects.pdb
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\MethodsOfObjects\obj\Debug\MethodsOfObjects.csprojAssemblyReference.cache

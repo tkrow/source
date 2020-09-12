@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\obj\Debug\HandlingUserInputConsole.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\obj\Debug\HandlingUserInputConsole.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\bin\Debug\HandlingUserInputConsole.exe.config
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\bin\Debug\HandlingUserInputConsole.exe
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\bin\Debug\HandlingUserInputConsole.pdb
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\obj\Debug\HandlingUserInputConsole.exe
+C:\Users\Timothy\source\repos\Unit_1\HandlingUserInputConsole\obj\Debug\HandlingUserInputConsole.pdb

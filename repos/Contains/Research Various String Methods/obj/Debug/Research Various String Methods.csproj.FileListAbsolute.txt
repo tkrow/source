@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\bin\Debug\Research Various String Methods.exe.config
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\bin\Debug\Research Various String Methods.exe
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\bin\Debug\Research Various String Methods.pdb
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\obj\Debug\Research Various String Methods.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\obj\Debug\Research Various String Methods.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\obj\Debug\Research Various String Methods.exe
+C:\Users\Timothy\source\repos\Contains\Research Various String Methods\obj\Debug\Research Various String Methods.pdb

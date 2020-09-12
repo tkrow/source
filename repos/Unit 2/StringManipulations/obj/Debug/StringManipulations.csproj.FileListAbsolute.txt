@@ -1,0 +1,10 @@
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\bin\Debug\StringManipulations.exe.config
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\bin\Debug\StringManipulations.exe
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\bin\Debug\StringManipulations.pdb
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.Form1.resources
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.Properties.Resources.resources
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.exe
+C:\Users\Timothy\source\repos\Unit 2\StringManipulations\obj\Debug\StringManipulations.pdb

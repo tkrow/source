@@ -1,0 +1,10 @@
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.Form1.resources
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.Properties.Resources.resources
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\bin\Debug\IntermProgFinalProject.exe.config
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\bin\Debug\IntermProgFinalProject.exe
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\bin\Debug\IntermProgFinalProject.pdb
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.exe
+C:\Users\Timothy\source\repos\IntermProgFinalProject\IntermProgFinalProject\obj\Debug\IntermProgFinalProject.pdb

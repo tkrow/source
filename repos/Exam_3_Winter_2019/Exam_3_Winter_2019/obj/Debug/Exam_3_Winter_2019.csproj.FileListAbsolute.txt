@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\bin\Debug\Exam_3_Winter_2019.exe.config
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\bin\Debug\Exam_3_Winter_2019.exe
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\bin\Debug\Exam_3_Winter_2019.pdb
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\obj\Debug\Exam_3_Winter_2019.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\obj\Debug\Exam_3_Winter_2019.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\obj\Debug\Exam_3_Winter_2019.exe
+C:\Users\Timothy\source\repos\Exam_3_Winter_2019\Exam_3_Winter_2019\obj\Debug\Exam_3_Winter_2019.pdb

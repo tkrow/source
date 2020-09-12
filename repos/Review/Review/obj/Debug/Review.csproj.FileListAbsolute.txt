@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Review\Review\bin\Debug\Review.exe.config
+C:\Users\Timothy\source\repos\Review\Review\bin\Debug\Review.exe
+C:\Users\Timothy\source\repos\Review\Review\bin\Debug\Review.pdb
+C:\Users\Timothy\source\repos\Review\Review\obj\Debug\Review.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Review\Review\obj\Debug\Review.exe
+C:\Users\Timothy\source\repos\Review\Review\obj\Debug\Review.pdb

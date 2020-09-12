@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	color: blue;
+}
+
+html {
+	background-image: url(imperium-eagle.jpg);
+	background-size: 100% 100%;
+}
+
+.submission {
+	font-size: 25px;
+}

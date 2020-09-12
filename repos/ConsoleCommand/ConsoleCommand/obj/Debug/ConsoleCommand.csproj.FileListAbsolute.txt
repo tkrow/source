@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\bin\Debug\ConsoleCommand.exe.config
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\bin\Debug\ConsoleCommand.exe
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\bin\Debug\ConsoleCommand.pdb
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\obj\Debug\ConsoleCommand.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\obj\Debug\ConsoleCommand.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\obj\Debug\ConsoleCommand.exe
+C:\Users\Timothy\source\repos\ConsoleCommand\ConsoleCommand\obj\Debug\ConsoleCommand.pdb

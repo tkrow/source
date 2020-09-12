@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\bin\Debug\ArraysOfObjects.exe.config
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\bin\Debug\ArraysOfObjects.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\bin\Debug\ArraysOfObjects.pdb
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\obj\Debug\ArraysOfObjects.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\obj\Debug\ArraysOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\obj\Debug\ArraysOfObjects.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ArraysOfObjects\obj\Debug\ArraysOfObjects.pdb

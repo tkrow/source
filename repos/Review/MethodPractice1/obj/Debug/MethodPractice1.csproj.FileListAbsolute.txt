@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Review\MethodPractice1\bin\Debug\MethodPractice1.exe.config
+C:\Users\Timothy\source\repos\Review\MethodPractice1\bin\Debug\MethodPractice1.exe
+C:\Users\Timothy\source\repos\Review\MethodPractice1\bin\Debug\MethodPractice1.pdb
+C:\Users\Timothy\source\repos\Review\MethodPractice1\obj\Debug\MethodPractice1.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Review\MethodPractice1\obj\Debug\MethodPractice1.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Review\MethodPractice1\obj\Debug\MethodPractice1.exe
+C:\Users\Timothy\source\repos\Review\MethodPractice1\obj\Debug\MethodPractice1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\bin\Debug\TryCatch with Numerator and Denominator.exe.config
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\bin\Debug\TryCatch with Numerator and Denominator.exe
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\bin\Debug\TryCatch with Numerator and Denominator.pdb
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\obj\Debug\TryCatch with Numerator and Denominator.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\obj\Debug\TryCatch with Numerator and Denominator.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\obj\Debug\TryCatch with Numerator and Denominator.exe
+C:\Users\Timothy\source\repos\TryCatch with Numerator and Denominator\TryCatch with Numerator and Denominator\obj\Debug\TryCatch with Numerator and Denominator.pdb

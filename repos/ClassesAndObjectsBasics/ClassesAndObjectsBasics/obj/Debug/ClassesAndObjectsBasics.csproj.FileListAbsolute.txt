@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\bin\Debug\ClassesAndObjectsBasics.exe.config
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\bin\Debug\ClassesAndObjectsBasics.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\bin\Debug\ClassesAndObjectsBasics.pdb
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\obj\Debug\ClassesAndObjectsBasics.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\obj\Debug\ClassesAndObjectsBasics.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\obj\Debug\ClassesAndObjectsBasics.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\ClassesAndObjectsBasics\obj\Debug\ClassesAndObjectsBasics.pdb

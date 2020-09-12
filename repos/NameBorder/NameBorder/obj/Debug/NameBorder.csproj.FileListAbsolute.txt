@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\bin\Debug\NameBorder.exe.config
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\bin\Debug\NameBorder.exe
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\bin\Debug\NameBorder.pdb
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\obj\Debug\NameBorder.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\obj\Debug\NameBorder.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\obj\Debug\NameBorder.exe
+C:\Users\Timothy\source\repos\NameBorder\NameBorder\obj\Debug\NameBorder.pdb

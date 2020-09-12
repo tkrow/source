@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\Unit 2\Substrings\bin\Debug\Substrings.exe.config
+C:\Users\Timothy\source\repos\Unit 2\Substrings\bin\Debug\Substrings.exe
+C:\Users\Timothy\source\repos\Unit 2\Substrings\bin\Debug\Substrings.pdb
+C:\Users\Timothy\source\repos\Unit 2\Substrings\obj\Debug\Substrings.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Unit 2\Substrings\obj\Debug\Substrings.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Unit 2\Substrings\obj\Debug\Substrings.exe
+C:\Users\Timothy\source\repos\Unit 2\Substrings\obj\Debug\Substrings.pdb

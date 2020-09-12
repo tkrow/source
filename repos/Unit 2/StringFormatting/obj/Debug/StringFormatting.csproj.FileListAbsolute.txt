@@ -1,0 +1,10 @@
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.Form1.resources
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.Properties.Resources.resources
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\Timothy\source\repos\Unit 2\StringFormatting\obj\Debug\StringFormatting.pdb

@@ -1,0 +1,10 @@
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\bin\Debug\NameSorterThingExam2.exe.config
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\bin\Debug\NameSorterThingExam2.exe
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\bin\Debug\NameSorterThingExam2.pdb
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.Form1.resources
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.Properties.Resources.resources
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.exe
+C:\Users\Timothy\source\repos\NameSorterThingExam2\NameSorterThingExam2\obj\Debug\NameSorterThingExam2.pdb

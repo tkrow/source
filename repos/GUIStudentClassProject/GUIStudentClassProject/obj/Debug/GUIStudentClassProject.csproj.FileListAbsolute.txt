@@ -1,0 +1,10 @@
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\bin\Debug\GUIStudentClassProject.exe.config
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\bin\Debug\GUIStudentClassProject.exe
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\bin\Debug\GUIStudentClassProject.pdb
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.Form1.resources
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.Properties.Resources.resources
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.csproj.GenerateResource.cache
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.exe
+C:\Users\Timothy\source\repos\GUIStudentClassProject\GUIStudentClassProject\obj\Debug\GUIStudentClassProject.pdb

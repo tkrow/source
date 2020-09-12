@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\bin\Debug\InheritanceWIthPersonAndStudent.exe.config
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\bin\Debug\InheritanceWIthPersonAndStudent.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\bin\Debug\InheritanceWIthPersonAndStudent.pdb
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\obj\Debug\InheritanceWIthPersonAndStudent.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\obj\Debug\InheritanceWIthPersonAndStudent.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\obj\Debug\InheritanceWIthPersonAndStudent.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\InheritanceWIthPersonAndStudent\obj\Debug\InheritanceWIthPersonAndStudent.pdb

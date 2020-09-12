@@ -1,0 +1,7 @@
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\bin\Debug\StudentClassProperties.exe.config
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\bin\Debug\StudentClassProperties.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\bin\Debug\StudentClassProperties.pdb
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\obj\Debug\StudentClassProperties.csprojAssemblyReference.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\obj\Debug\StudentClassProperties.csproj.CoreCompileInputs.cache
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\obj\Debug\StudentClassProperties.exe
+C:\Users\Timothy\source\repos\ClassesAndObjectsBasics\StudentClassProperties\obj\Debug\StudentClassProperties.pdb
